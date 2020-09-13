@@ -22,7 +22,7 @@ Modul ini digunakan untuk praktikum algoritma dan pemrograman pada prodi Pendidi
  - Percabangan
  - Perulangan
  - Function
- 10.Operasi File
+ - Operasi File
  
 ## Author
  - [Jan Wantoro](https://scholar.google.co.id/citations?user=CQ-xgooAAAAJ&hl=id)
