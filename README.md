@@ -1,4 +1,5 @@
 # Modul Praktikum Algoritma Pemrograman
+[Download Modul Praktikum Algoritma Pemrograman](https://github.com/arifsetwn/modul-alpro-python/blob/master/Modul%20Alpro%20Complete.pdf)
 
 Modul ini digunakan untuk praktikum algoritma dan pemrograman pada prodi Pendidikan Teknik Informatika, FKIP UMS. Bahasa pemrograman yang digunakan adalah Python. Pada saat modul ini dibuat, python yang digunakan adalah versi 3.8
 
