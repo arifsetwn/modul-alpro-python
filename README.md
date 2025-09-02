@@ -1,5 +1,4 @@
 # Modul Praktikum Algoritma Pemrograman
-[Download Modul Praktikum Algoritma Pemrograman](https://github.com/arifsetwn/modul-alpro-python/blob/master/Modul%20Alpro%20Complete.pdf)
 
 Modul ini digunakan untuk praktikum algoritma dan pemrograman pada prodi Pendidikan Teknik Informatika, FKIP UMS. Bahasa pemrograman yang digunakan adalah Python. Pada saat modul ini dibuat, python yang digunakan adalah versi 3.8
 
@@ -11,6 +10,7 @@ Modul ini digunakan untuk praktikum algoritma dan pemrograman pada prodi Pendidi
  - versi 1.3 ditulis 28 Agustus 2017, Bahasa yang digunakan C
  - versi 1.4 ditulis 5 September 2018, Bahasa yang digunakan C
  - versi 2.0 dituils 8 September 2020, Bahasa yang digunakan Python
+ - versi 3.0 ditulis 2 September 2025, tambahan materi library 
 
 ## Daftar Isi
 
@@ -24,8 +24,9 @@ Modul ini digunakan untuk praktikum algoritma dan pemrograman pada prodi Pendidi
  - Perulangan
  - Function
  - Operasi File
- 
+ - OOP
+ - Inheritence
+ - Libary
+   
 ## Author
- - [Jan Wantoro](https://scholar.google.co.id/citations?user=CQ-xgooAAAAJ&hl=id)
- - [Irma Yuliana](https://scholar.google.co.id/citations?user=qKxp3hcAAAAJ&hl=en)
  - [Arif Setiawan](https://scholar.google.co.id/citations?user=l1JmHE8AAAAJ&hl=id)
